@@ -1,0 +1,5 @@
+No me quedo claro sobre si se referian al deploy (1) o a ejecutar la aplicación (2).
+
+1. Desde el directorio de la aplicación ejecutamos en consola el comando "npm run build", para generar el build para el deploy de la aplicación.
+
+2. Desde el directorio de la aplicación ejecutamos en consola el comando "npm run start".
